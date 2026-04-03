@@ -1,11 +1,15 @@
-🚌 Bus App
-📌 Giới thiệu
+# 🚌 Bus App
 
-Bus App là ứng dụng hỗ trợ người dùng tra cứu và đặt vé xe buýt.
-Hệ thống được xây dựng theo mô hình client-server với mobile app và backend API.
+## 📌 Introduction
 
-🛠 Công nghệ
-Frontend: Android (Kotlin)
-Backend: Spring Boot (Java)
-Database: MySQL
-API: RESTful
+Bus App is a mobile application that helps users search for bus routes and book tickets.
+The system is built using a client-server architecture, including a mobile app and a backend API.
+
+---
+
+## 🛠 Technologies
+
+* **Frontend:** Android (Kotlin)
+* **Backend:** Spring Boot (Java)
+* **Database:** MySQL
+* **API:** RESTful
